@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=DCB9FF&height=250&section=header&text=Hwang%20Seon-ju&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DCB9FF&height=120&section=header&text=Hwang%20Seon-ju&fontSize=30)
 ### :muscle: Teck Stack
 <b>Back-End</b><br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -28,22 +28,3 @@
 ### :pencil2: Solved.ac Profile
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswn0425)](https://solved.ac/profile/tjswn0425)
-
-### :cat: Github Stats
-![hwangseonju's github stats](https://github-readme-stats.vercel.app/api?username=hwangseonju&show_icons=true)
-[![hwangseonju's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangseonju&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangseonju)
-
-<!--
-**hwangseonju/hwangseonju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
